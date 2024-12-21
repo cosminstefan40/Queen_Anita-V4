@@ -1,9 +1,9 @@
 global.owner = [
-  "2347043759577",
+  "0770811929",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.ownername = "ANONIM"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
 global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
@@ -37,13 +37,13 @@ global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.ne
 global.public = true
 
 
-global.ANTIDELETE = false;  
+global.ANTIDELETE = true;  
 
 global.unavailable = true;     
 //to show your real presence  
 global.available = false;   
 // to show always online  
-global.autoreadmessages = false;   
+global.autoreadmessages = true;   
 ///To always read messages
 global.chatbot = false;
 global.autoreact = false;
@@ -52,15 +52,15 @@ global.WELCOME = false;
 
 global.prefix = '.';
 
-global.autobio = false;
+global.autobio = true;
 
-global.ANTICALL = false;
+global.ANTICALL = true;
 
-global.antilink = false;
+global.antilink = true;
 
-global.antilinkkick = false;
+global.antilinkkick = true;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 global.mess = {
     success: '𝙳𝚘𝚗𝚎',
